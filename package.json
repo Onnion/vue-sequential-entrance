@@ -1,6 +1,6 @@
 {
   "name": "onnion-vue-sequential-entrance",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A vuejs plugin for creating sequential animation entrances of a group of elements",
   "main": "index.js",
   "scripts": {
