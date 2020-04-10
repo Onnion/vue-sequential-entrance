@@ -1,5 +1,5 @@
 .entranceFromTop {
-  animation-duration: 1s;
+  animation-duration: .3s;
   animation-name: entranceFromTop;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .entranceFromBottom {
-  animation-duration: 1s;
+  animation-duration: .3s;
   animation-name: entranceFromBottom;
 }
 
